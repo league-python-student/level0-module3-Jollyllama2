@@ -19,4 +19,6 @@ if __name__ == '__main__':
                 if the_sign == 'yes':
                     messagebox.showinfo(title='hi',message='The mystery figure hears you jump and out of fright throws the spear it has right at you, ad I think you know how that goes' )
                 if the_sign == 'no':
-                    messagebox.showinfo(title='hi',message='you slowly advance towards the figure, who sees your light and calms down, knowing your anoter explorer')
+                    messagebox.showinfo(title='hi',message='you slowly advance towards the figure, who sees your light and calms down, knowing your another explorer, and annoces that he is luigi, tells oyu there is no treasure, and you and him head back to your house, chill, and then he is your roommate! ')
+        if wow == 'yes':
+            messagebox.showinfo(title='ayyyyyyoooooooooo tra-s furry', message= 'You try to help mario, but he starts running and abandons you to the grant, who ends you...')
