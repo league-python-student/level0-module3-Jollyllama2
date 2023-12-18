@@ -27,4 +27,3 @@ if __name__ == '__main__':
     window = Tk()
     window.withdraw()
     many_shiny_objects()
---

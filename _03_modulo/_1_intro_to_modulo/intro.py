@@ -18,6 +18,7 @@ if __name__ == '__main__':
         else:
             print(str(number) + " is odd")
 
+
     # TODO: Another use for modulo could be to track every 20 times a loop
     #  is executed, as follows:
     for i in range(101):
