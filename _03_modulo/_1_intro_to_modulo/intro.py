@@ -15,6 +15,7 @@ if __name__ == '__main__':
         number = random.randint(0, 100)
         if number % 2 == 0:
             print(str(number) + " is even")
+
         else:
             print(str(number) + " is odd")
 
